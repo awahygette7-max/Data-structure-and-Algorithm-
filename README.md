@@ -1,4 +1,7 @@
-Insurance Claims Processing
+                                                            Insurance Claims Processing
+
+
+
 This Python script processes insurance claims data and performs basic operations such as calculating totals, averages, and sorting. It uses different data structures like lists, arrays, and dictionaries.
 
 What the Script Does
